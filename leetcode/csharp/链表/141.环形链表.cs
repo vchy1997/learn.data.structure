@@ -59,14 +59,14 @@ namespace Solution141
                 return false;
             var slow = head;
             var fast = head.next;
-            while(slow!=fast)
+            while (slow != fast)
             {
-                if(slow is null || fast is null)
+                if (slow is null || fast is null)
                     return false;
                 slow = slow?.next;
                 fast = fast?.next?.next;
             }
-            return true;   
+            return true;
         }
     }
 }
