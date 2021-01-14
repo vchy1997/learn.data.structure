@@ -1,7 +1,7 @@
 /*
  * @lc app=leetcode.cn id=1290 lang=csharp
  *
- * 【剑指 Offer 06]. 从尾到头打印链表
+ * [剑指 Offer 06]. 从尾到头打印链表
  */
 
 // @lc code=start
