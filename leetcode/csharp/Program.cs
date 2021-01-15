@@ -9,7 +9,6 @@ namespace csharp
             Test206();
             Console.WriteLine("Hello World!");
         }
-
         static void Test206()
         {
             var node = new Solution206.ListNode(1);
